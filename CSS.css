@@ -1,0 +1,32 @@
+
+/* Full-width input fields */
+input[type=text]{
+    width: 15%;
+    padding: 12px 20px;
+    margin: 8px 0;
+    display: inline-block;
+    border: 1px solid #ccc;
+    box-sizing: border-box;
+}
+messa[type=text]{
+    width: 50%;
+    high:30%;
+    padding: 12px 20px;
+    margin: 8px 0;
+    display: inline-block;
+    border: 1px solid #ccc;
+    box-sizing: border-box;
+}
+
+/* Set a style for all buttons */
+butto1 {
+    background-color: #4CAF50;
+    color: white;
+    padding: 14px 50px;
+    margin: 8px 0;
+    border: none;
+    cursor: pointer;
+    width: 5%;
+}
+
+
